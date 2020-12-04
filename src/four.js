@@ -55,8 +55,6 @@ class FieldTracker {
     if (!value) this.fields[field] = true;
     else {
       this.fields[field] = this.validationFunctions[field](value);
-
-      if (this.fields[field]) console.log(field, value, this.fields[field]);
     }
   }
 
@@ -89,5 +87,5 @@ const two = () => {
   console.log('TWO: ' + main(false));
 };
 
-// one();
+one();
 two();
