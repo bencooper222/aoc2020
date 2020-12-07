@@ -21,3 +21,7 @@ I'll probably do several problems in single files so this just maps where everyt
 ## src/five.js
 
 5a, 5b
+
+## src/six.js
+
+6a, 6b
