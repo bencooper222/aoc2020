@@ -25,3 +25,11 @@ I'll probably do several problems in single files so this just maps where everyt
 ## src/six.js
 
 6a, 6b
+
+## src/seven.js
+
+7a, 7b
+
+## src/eight.js
+
+8a, 8b
